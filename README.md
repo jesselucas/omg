@@ -1,6 +1,6 @@
 Go Links
 ======================
-Various links to Go related articles and videos
+Various links to Go related articles, videos and other resources. 
 
 ## Table of Contents
 

@@ -45,27 +45,32 @@ Links that have helped me as I'm learning Go.
 
 ## Slides
 
-* [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide): Andrew Gerrand's slide about things you might not know about Go.
+  * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide): Andrew Gerrand's slide about things you might not know about Go.
 
 ## Testing
 
-* [Go Fuzz](https://github.com/dvyukov/go-fuzz)
+  * [Go Fuzz](https://github.com/dvyukov/go-fuzz)
 
 ## Hosting
 
 Setting up Go on various hosting platforms.
 
-* [Heroku Go Support](https://devcenter.heroku.com/articles/go-support)
-* [OpenShift Go Support](https://hub.openshift.com/quickstarts/29-go-language)
+  * [Heroku Go Support](https://devcenter.heroku.com/articles/go-support)
+  * [OpenShift Go Support](https://hub.openshift.com/quickstarts/29-go-language)
 
 ## Microservice Tools
 
-* [Go kit](https://github.com/go-kit/kit)
+  * [Go kit](https://github.com/go-kit/kit)
+
+## Vendoring
+
+  * [Go 1.5 Vendoring Experiment](https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit)
+  * [gv](https://github.com/forestgiant/gv): A simple Go vendoring tool for use with Go 1.5 vendoring.
 
 ## Resources
 
-* [gv](https://github.com/forestgiant/gv): A simple Go vendoring tool for use with Go 1.5 vendoring.
-* [Go Sublime](https://github.com/DisposaBoy/GoSublime): Golang plugin collection for the text editor SublimeText.
-* [goimports](http://godoc.org/golang.org/x/tools/cmd/goimports): Updates your Go import lines, adding missing ones and removing unreferenced ones.
-* [Awesome Go](https://github.com/avelino/awesome-go): Curated list of awesome Go frameworks, libraries and software.
+  * [Go Sublime](https://github.com/DisposaBoy/GoSublime): Golang plugin collection for the text editor SublimeText.
+  * [goimports](http://godoc.org/golang.org/x/tools/cmd/goimports): Updates your Go import lines, adding missing ones and removing unreferenced ones.
+  * [Awesome Go](https://github.com/avelino/awesome-go): Curated list of awesome Go frameworks, libraries and software.
+  * [Go Newsletter Archives](http://golangweekly.com/issues): Signup for this newsletter!
 

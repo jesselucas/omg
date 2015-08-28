@@ -49,14 +49,14 @@ Links that have helped me as I'm learning Go.
 
 ## Testing
 
-[Go Fuzz](https://github.com/dvyukov/go-fuzz)
+* [Go Fuzz](https://github.com/dvyukov/go-fuzz)
 
 ## Hosting
 
 Setting up Go on various hosting platforms.
 
-[Heroku Go Support](https://devcenter.heroku.com/articles/go-support)
-[OpenShift Go Support](https://hub.openshift.com/quickstarts/29-go-language)
+* [Heroku Go Support](https://devcenter.heroku.com/articles/go-support)
+* [OpenShift Go Support](https://hub.openshift.com/quickstarts/29-go-language)
 
 ## Microservice Tools
 

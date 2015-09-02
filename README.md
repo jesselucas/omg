@@ -6,7 +6,6 @@ Various links to Go related articles, videos and other resources.
 
  * [Overview](#overview)
  * [Learning Go](#learning-go)
- * [Suggested](#suggested)
  * [Videos](#videos)
  * [Slides](#slides)
  * [Testing](#testing)
@@ -32,11 +31,9 @@ Links that have helped me as I'm learning Go.
   * [Learn Go in Y Minutes](http://learnxinyminutes.com/docs/go/): Also a good reference for learning a new language.
   * [Go in Production](http://peter.bourgon.org/go-in-production/): Best practices for Go in production.
   * [Go Wiki](https://github.com/golang/go/wiki): Excellent resource for everything Go.
-  
-## Suggested 
-
   * [Channel Axioms](http://dave.cheney.net/2014/03/19/channel-axioms): Constant reference for working with channels.
-  
+  * [Understanding Pointers](http://www.goinggo.net/2013/07/understanding-pointers-and-memory.html): William Kennedy explains pointers and memory allocation in Go. 
+
 ## Videos
   * [GopherCon 2014](https://youtu.be/dKGmK_Z1Zl0?list=PLE7tQUdRKcyb-k4TMNm2K59-sVlUJumw7): Playlist for Gophercon 2014.
   * [GopherCon 2015](https://m.youtube.com/playlist?list=PL218pariu7RGpQ12_epDk0EwOFXdfMajH): Playlist for Gophercon 2015.
@@ -74,4 +71,3 @@ Setting up Go on various hosting platforms.
   * [goimports](http://godoc.org/golang.org/x/tools/cmd/goimports): Updates your Go import lines, adding missing ones and removing unreferenced ones.
   * [Awesome Go](https://github.com/avelino/awesome-go): Curated list of awesome Go frameworks, libraries and software.
   * [Go Newsletter Archives](http://golangweekly.com/issues): Signup for this newsletter!
-

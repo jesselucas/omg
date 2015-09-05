@@ -26,6 +26,7 @@ Links that have helped me as I'm learning Go.
 
   * [A Tour of Go](http://tour.golang.org/): A constant source of knowledge. I recommend revisiting the tour periodically.
   * [Go by Example](https://gobyexample.com/): A great companion to the tour. Should also go back as you learn knew thing.
+  * [Gopher Slack Team](http://blog.gopheracademy.com/gophers-slack-community/): Chat with other gophers!
   * [Effective Go](https://golang.org/doc/effective_go.html): There's a lot to soak in here but keep it as a reference
   * [Golang.org Articles](https://golang.org/doc/#articles): Links to the official blog and other great resources.
   * [Learn Go in Y Minutes](http://learnxinyminutes.com/docs/go/): Also a good reference for learning a new language.

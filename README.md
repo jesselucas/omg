@@ -60,6 +60,7 @@ Setting up Go on various hosting platforms.
 ## Microservice Tools
 
   * [Go kit](https://github.com/go-kit/kit)
+  * [Consul API](https://github.com/hashicorp/consul/tree/master/api)
 
 ## Vendoring
 

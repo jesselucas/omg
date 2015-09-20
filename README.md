@@ -1,4 +1,4 @@
-Go Links
+Oh My Go
 ======================
 Various links to Go related articles, videos and other resources. 
 

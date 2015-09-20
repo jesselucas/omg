@@ -61,6 +61,7 @@ Setting up Go on various hosting platforms.
 
   * [Go kit](https://github.com/go-kit/kit)
   * [Consul API](https://github.com/hashicorp/consul/tree/master/api)
+  * [PortUtil](https://github.com/forestgiant/portutil)
 
 ## Vendoring
 

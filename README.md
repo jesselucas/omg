@@ -11,6 +11,7 @@ Various links to Go related articles, videos and other resources.
  * [Testing](#testing)
  * [Hosting](#hosting)
  * [Microservice Tools](#microservice-tools)
+ * [Static Assets](#static-assets)
  * [Vendoring](#vendoring)
  * [Resources](#resources)
 

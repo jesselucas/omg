@@ -63,6 +63,12 @@ Setting up Go on various hosting platforms.
   * [Consul API](https://github.com/hashicorp/consul/tree/master/api)
   * [PortUtil](https://github.com/forestgiant/portutil)
 
+## Static Assets
+  
+  * [bindata](https://github.com/jteeuwen/go-bindata)
+  * [bindata assetsfs](https://github.com/elazarl/go-bindata-assetfs)
+  * [bindata html template](https://github.com/arschles/go-bindata-html-template)
+
 ## Vendoring
 
   * [Go 1.5 Vendoring Experiment](https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit)

@@ -74,6 +74,7 @@ Setting up Go on various hosting platforms.
 
   * [Go 1.5 Vendoring Experiment](https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit)
   * [gv](https://github.com/forestgiant/gv): A simple Go vendoring tool for use with Go 1.5 vendoring.
+  * [Glide](https://github.com/Masterminds/glide) Vendor Package Management with Semantic Versioning 2.0.0 support.
 
 ## Resources
 

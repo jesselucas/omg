@@ -35,6 +35,7 @@ Links that have helped me as I'm learning Go.
   * [Go Wiki](https://github.com/golang/go/wiki): Excellent resource for everything Go.
   * [Channel Axioms](http://dave.cheney.net/2014/03/19/channel-axioms): Constant reference for working with channels.
   * [Understanding Pointers](http://www.goinggo.net/2013/07/understanding-pointers-and-memory.html): William Kennedy explains pointers and memory allocation in Go. 
+  * [Channel Exercise](https://play.golang.org/p/QxgRxKkFMV) Go Playground example to better understand blocking channels.  
 
 ## Videos
   * [GopherCon 2014](https://youtu.be/dKGmK_Z1Zl0?list=PLE7tQUdRKcyb-k4TMNm2K59-sVlUJumw7): Playlist for Gophercon 2014.

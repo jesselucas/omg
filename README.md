@@ -42,6 +42,7 @@ Links that have helped me as I'm learning Go.
   * [GopherCon 2015](https://m.youtube.com/playlist?list=PL218pariu7RGpQ12_epDk0EwOFXdfMajH): Playlist for Gophercon 2015.
   * [7 Common Mistakes in Go](https://youtu.be/29LLRKIL_TI): Steve Francia talks about most common mistakes in Go and how to avoid them.
   * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) Excellent talk by Rob Pike from Google I/O 2012.
+  * [Principles of designing Go APIs with channels](https://youtu.be/hFqXgmor74k) Callbacks or channels? Return a channel or pass as argument? This talk gives insight into using channels in your API.
 
 
 ## Slides
